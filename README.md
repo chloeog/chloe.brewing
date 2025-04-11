@@ -1,4 +1,4 @@
-# chloe.brewing
+
 # ☕ CHLOE.BREWING
 
 **"최고 커피 공급자에서 최고 커피 수요자가 되기까지"**  
